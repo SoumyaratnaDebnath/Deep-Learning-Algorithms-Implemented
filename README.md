@@ -8,7 +8,8 @@ Welcome to Pixel Intelligence, a dedicated platform designed to empower your jou
 
 ### Vision Transformers
   1. [Attention in transformers, visually explained](https://youtu.be/eMlx5fFNoYc?si=pRbSARHssr38LjWx)
-  2. [Transformer Neural Networks Derived from Scratch](https://youtu.be/kWLed8o5M2Y?si=LoDpokjuaE_Lo5p3)
-  3. [Vision Transformer from Scratch](https://youtu.be/pACWvXc-GLs?si=LIn29f-xGkUYy-H0)
-  4. [Implement and Train ViT From Scratch for Image Recognition - PyTorch](https://youtu.be/Vonyoz6Yt9c?si=1bSgFETiMPXqw-ss)
-  5. [Vision Transformer in PyTorch](https://youtu.be/ovB0ddFtzzA?si=jr6tgb0vMZpMO5DK)
+  2. [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)
+  3. [Transformer Neural Networks Derived from Scratch](https://youtu.be/kWLed8o5M2Y?si=LoDpokjuaE_Lo5p3)
+  4. [Vision Transformer from Scratch](https://youtu.be/pACWvXc-GLs?si=LIn29f-xGkUYy-H0)
+  5. [Implement and Train ViT From Scratch for Image Recognition - PyTorch](https://youtu.be/Vonyoz6Yt9c?si=1bSgFETiMPXqw-ss)
+  6. [Vision Transformer in PyTorch](https://youtu.be/ovB0ddFtzzA?si=jr6tgb0vMZpMO5DK)
