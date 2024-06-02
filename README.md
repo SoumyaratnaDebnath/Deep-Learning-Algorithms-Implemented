@@ -15,7 +15,11 @@ Welcome to Pixel Intelligence, a dedicated platform designed to empower your jou
   6. [Vision Transformer in PyTorch](https://youtu.be/ovB0ddFtzzA?si=jr6tgb0vMZpMO5DK)
 
 ### GANs
+  1. [Building our first simple GAN](https://youtu.be/OljTVUVzPpM?si=X2-mJx_7N_Z1jU4B)
+  2. 
 ### Diffusion Models
 ### Text to Image
 ### SMPL
 ### NERF
+### PyTorch Lightning
+  1. [PyTorch Lightning Tutorial](https://youtube.com/playlist?list=PLhhyoLH6IjfyL740PTuXef4TstxAK6nGP&si=ew27ODqjWKA1M1nz)
