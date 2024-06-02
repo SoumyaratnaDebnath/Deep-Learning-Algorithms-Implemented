@@ -13,3 +13,9 @@ Welcome to Pixel Intelligence, a dedicated platform designed to empower your jou
   4. [Vision Transformer from Scratch](https://youtu.be/pACWvXc-GLs?si=LIn29f-xGkUYy-H0)
   5. [Implement and Train ViT From Scratch for Image Recognition - PyTorch](https://youtu.be/Vonyoz6Yt9c?si=1bSgFETiMPXqw-ss)
   6. [Vision Transformer in PyTorch](https://youtu.be/ovB0ddFtzzA?si=jr6tgb0vMZpMO5DK)
+
+### GANs
+### Diffusion Models
+### Text to Image
+### SMPL
+### NERF
