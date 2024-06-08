@@ -14,6 +14,7 @@ Welcome to Pixel Intelligence, a dedicated platform designed to empower your jou
   4. [Vision Transformer from Scratch](https://youtu.be/pACWvXc-GLs?si=LIn29f-xGkUYy-H0)
   5. [Implement and Train ViT From Scratch for Image Recognition - PyTorch](https://youtu.be/Vonyoz6Yt9c?si=1bSgFETiMPXqw-ss)
   6. [Vision Transformer in PyTorch](https://youtu.be/ovB0ddFtzzA?si=jr6tgb0vMZpMO5DK)
+  7.  Please find all the related codes [here](https://github.com/SoumyaratnaDebnath/Byte-by-Byte-Vision/tree/main/vision-trasnformer-from-scratch).
 
 ### GANs
   1. [Understand the Math and Theory of GANs](https://youtu.be/J1aG12dLo4I?si=vuS8el8bImDw75l8)
