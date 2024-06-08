@@ -5,6 +5,7 @@ Welcome to Byte-by-Byte Vision, a dedicated platform designed to empower your jo
 ### PyTorch 
   1. [PyTorch Tutorials - Complete Beginner Course](https://youtube.com/playlist?list=PLqnslRFeH2UrcDBWF5mfPGpqQDSta6VK4&si=jOWoiKW3T1lTg_26)
   2. [PyTorch Lightning Tutorial](https://youtube.com/playlist?list=PLhhyoLH6IjfyL740PTuXef4TstxAK6nGP&si=ew27ODqjWKA1M1nz)
+  3. [Complete TensorBoard Guide](https://youtu.be/k7KfYXXrOj0?si=uWwhut7UsE3KXl0G)
 
 ### Graph Neural Networks
   1. [Graph Neural Networks - DeepFindr](https://youtube.com/playlist?list=PLV8yxwGOxvvoNkzPfCx2i8an--Tkt7O8Z&si=VBMF5Zl8v-LJ-71k)
