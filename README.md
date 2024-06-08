@@ -5,6 +5,7 @@ Welcome to Pixel Intelligence, a dedicated platform designed to empower your jou
 ### Graph Neural Networks
   1. [Graph Neural Networks - DeepFindr](https://youtube.com/playlist?list=PLV8yxwGOxvvoNkzPfCx2i8an--Tkt7O8Z&si=VBMF5Zl8v-LJ-71k)
   2. [Graph Convolutional Networks using only NumPy](https://youtu.be/8qTnNXdkF1Q?si=o_z2rY6pjOVw6xwZ)
+  3. Please find all the related codes [here](https://github.com/SoumyaratnaDebnath/Byte-by-Byte-Vision/tree/main/graph-convolution-networks-from-scratch).
 
 ### Vision Transformers
   1. [Attention in transformers, visually explained](https://youtu.be/eMlx5fFNoYc?si=pRbSARHssr38LjWx)
