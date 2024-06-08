@@ -2,7 +2,7 @@
 
 Welcome to Byte-by-Byte Vision, a dedicated platform designed to empower your journey into the realms of deep learning and computer vision. Here, we meticulously curate and organize high-quality resources by topic, providing you with the tools to learn at your own pace and convenience. Whether you're starting from scratch or looking to refine your expertise, Pixel Intelligence offers accessible, structured learning paths to help you master each concept thoroughly. Dive into our resources today and start your self-paced exploration into the transformative world of artificial intelligence!
 
-### PyTorch 
+### PyTorch and Visualizations
   1. [PyTorch Tutorials - Complete Beginner Course](https://youtube.com/playlist?list=PLqnslRFeH2UrcDBWF5mfPGpqQDSta6VK4&si=jOWoiKW3T1lTg_26)
   2. [PyTorch Lightning Tutorial](https://youtube.com/playlist?list=PLhhyoLH6IjfyL740PTuXef4TstxAK6nGP&si=ew27ODqjWKA1M1nz)
   3. [Complete TensorBoard Guide](https://youtu.be/k7KfYXXrOj0?si=uWwhut7UsE3KXl0G)
