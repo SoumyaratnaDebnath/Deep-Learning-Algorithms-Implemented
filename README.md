@@ -1,6 +1,9 @@
-# Byte / Byte Vision
+# Byte by Byte Vision
 
-Welcome to Pixel Intelligence, a dedicated platform designed to empower your journey into the realms of deep learning and computer vision. Here, we meticulously curate and organize high-quality resources by topic, providing you with the tools to learn at your own pace and convenience. Whether you're starting from scratch or looking to refine your expertise, Pixel Intelligence offers accessible, structured learning paths to help you master each concept thoroughly. Dive into our resources today and start your self-paced exploration into the transformative world of artificial intelligence!
+Welcome to Byte-by-Byte Vision, a dedicated platform designed to empower your journey into the realms of deep learning and computer vision. Here, we meticulously curate and organize high-quality resources by topic, providing you with the tools to learn at your own pace and convenience. Whether you're starting from scratch or looking to refine your expertise, Pixel Intelligence offers accessible, structured learning paths to help you master each concept thoroughly. Dive into our resources today and start your self-paced exploration into the transformative world of artificial intelligence!
+
+### PyTorch 
+  1. [PyTorch Tutorials - Complete Beginner Course](https://youtube.com/playlist?list=PLqnslRFeH2UrcDBWF5mfPGpqQDSta6VK4&si=jOWoiKW3T1lTg_26)
 
 ### Graph Neural Networks
   1. [Graph Neural Networks - DeepFindr](https://youtube.com/playlist?list=PLV8yxwGOxvvoNkzPfCx2i8an--Tkt7O8Z&si=VBMF5Zl8v-LJ-71k)
@@ -19,7 +22,7 @@ Welcome to Pixel Intelligence, a dedicated platform designed to empower your jou
 ### GANs
   1. [Understand the Math and Theory of GANs](https://youtu.be/J1aG12dLo4I?si=vuS8el8bImDw75l8)
   2. [Building our first simple GAN](https://youtu.be/OljTVUVzPpM?si=X2-mJx_7N_Z1jU4B)
-  3. 
+     
 ### Diffusion Models
 ### Text to Image
 ### SMPL
