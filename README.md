@@ -33,5 +33,6 @@ Welcome to Byte-by-Byte Vision, a dedicated platform designed to empower your jo
 ### Text to Image Generation - Coming Soon
 ### Skinned Multi-Person Linear Model (SMPL) - Coming Soon
 ### Neural Radiance Field (NeRF) - Coming Soon
+### PyTorch3D - Coming Soon
 ### Mamba for Vision - Coming Soon
 
