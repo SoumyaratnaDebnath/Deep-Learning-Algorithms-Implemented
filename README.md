@@ -28,11 +28,10 @@ Welcome to Byte-by-Byte Vision, a dedicated platform designed to empower your jo
 ### Generative Adversarial Networks (GANs) - In Progress
   1. [Understand the Math and Theory of GANs](https://youtu.be/J1aG12dLo4I?si=vuS8el8bImDw75l8)
   2. [Building our first simple GAN](https://youtu.be/OljTVUVzPpM?si=X2-mJx_7N_Z1jU4B)
-  3. [Pix2Pix Paper Walkthrough](https://youtu.be/9SGs4Nm0VR4?si=UrbZG-GxCaAsDpbf)
-  4. [Pix2Pix implementation from scratch](https://youtu.be/SuddDSqGRzg?si=l6eIx9cxyWoqzhuP)
-  5. [CycleGAN Paper Walkthrough](https://youtu.be/5jziBapziYE?si=-mCy8ae3o42zWZ_H)
-  6. [CycleGAN implementation from scratch](https://youtu.be/4LktBHGCNfw?si=3Jue5Qen5gac20lh)
-  7. Find all the related codes [here](https://github.com/SoumyaratnaDebnath/Byte-by-Byte-Vision/tree/main/GANs-implemented-from-scratch).
+  3. [Pix2Pix Paper Walkthrough](https://youtu.be/9SGs4Nm0VR4?si=UrbZG-GxCaAsDpbf) and [implementation from scratch](https://youtu.be/SuddDSqGRzg?si=l6eIx9cxyWoqzhuP)
+  5. [CycleGAN Paper Walkthrough](https://youtu.be/5jziBapziYE?si=-mCy8ae3o42zWZ_H) and [implementation from scratch](https://youtu.be/4LktBHGCNfw?si=3Jue5Qen5gac20lh)
+  7. [ProGAN Paper Walkthrough](https://youtu.be/lhs78if-E7E?si=JYt_qQjUiuKKfdl4) and [implementation from scratch](https://youtu.be/nkQHASviYac?si=uyfIQb0at9BYBHU8)
+  8. Find all the related codes [here](https://github.com/SoumyaratnaDebnath/Byte-by-Byte-Vision/tree/main/GANs-implemented-from-scratch).
      
 ### Diffusion Models - Coming Soon 
 ### Text to Image Generation - Coming Soon
