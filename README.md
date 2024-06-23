@@ -25,7 +25,7 @@ Welcome to Byte-by-Byte Vision, a dedicated platform designed to empower your jo
   6. [Vision Transformer in PyTorch](https://youtu.be/ovB0ddFtzzA?si=jr6tgb0vMZpMO5DK)
   7. Find the related codes [here](https://github.com/SoumyaratnaDebnath/Byte-by-Byte-Vision/tree/main/vision-trasnformer-from-scratch).
 
-### Generative Adversarial Networks (GANs) - In Progress
+### Generative Adversarial Networks (GANs)
   1. [Understand the Math and Theory of GANs](https://youtu.be/J1aG12dLo4I?si=vuS8el8bImDw75l8)
   2. [Building our first simple GAN](https://youtu.be/OljTVUVzPpM?si=X2-mJx_7N_Z1jU4B)
   3. [Pix2Pix Paper Walkthrough](https://youtu.be/9SGs4Nm0VR4?si=UrbZG-GxCaAsDpbf) and [implementation from scratch](https://youtu.be/SuddDSqGRzg?si=l6eIx9cxyWoqzhuP)
@@ -35,7 +35,10 @@ Welcome to Byte-by-Byte Vision, a dedicated platform designed to empower your jo
   9. [StyleGAN Paper Walkthorugh](https://youtu.be/qZuoU23ACTo?si=ZLgHJ39Wfhc-yO2Q) and [implementation from scratch](https://www.kaggle.com/code/tauilabdelilah/stylegan-implementation-from-scratch-pytorch)
   10. Find the related codes [here](https://github.com/SoumyaratnaDebnath/Byte-by-Byte-Vision/tree/main/GANs-implemented-from-scratch).
      
-### Diffusion Models - Coming Soon 
+### Diffusion Models [In Progress]
+  1. [Diffusion models explained in 4-difficulty levels](https://youtu.be/yTAMrHVG1ew?si=U_XiXqf1fHSOZH1-)
+  2. [What are Diffusion Models?](https://youtu.be/fbLgFrlTnGU?si=kQlJ7AN0b8kOaiMG)
+  3. [Diffusion Models | Paper Explanation | Math Explained](https://youtu.be/HoKDTa5jHvg?si=km-4R43Y_EmYX3hC)
 ### Text to Image Generation - Coming Soon
 ### Skinned Multi-Person Linear Model (SMPL) - Coming Soon
 ### Neural Radiance Field (NeRF) - Coming Soon
