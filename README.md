@@ -5,6 +5,7 @@ Welcome to Byte-by-Byte Vision, a dedicated platform designed to empower your jo
 ### Generic
   1. [ML Was Hard Until I Learned These 5 Secrets!](https://youtu.be/sJBO7rMR8ks?si=h9BtP0x1ywFW8U42)
   2. [How I’d learn ML (if I could start over)](https://youtu.be/gUmagAluXpk?si=4wiRwhonibEh2gsj)
+  3. [Neural Networks Implemented From Scratch](https://youtube.com/playlist?list=PLhhyoLH6IjfzqE1Z9uGrTb66tcu311C7c&si=mHr4ANM7UzoxITbj)
 
 ### PyTorch and Visualizations
   1. [PyTorch Tutorials - Complete Beginner Course](https://youtube.com/playlist?list=PLqnslRFeH2UrcDBWF5mfPGpqQDSta6VK4&si=jOWoiKW3T1lTg_26)
@@ -34,14 +35,18 @@ Welcome to Byte-by-Byte Vision, a dedicated platform designed to empower your jo
   8. [SRGAN Paper Walkthrough](https://youtu.be/fx-rXMcKlQc?si=88k7HFX1hPCx-olV) and [implementation from scratch](https://youtu.be/7FO9qDOhRCc?si=hT992fUyBe2_72Hc)
   9. [StyleGAN Paper Walkthorugh](https://youtu.be/qZuoU23ACTo?si=ZLgHJ39Wfhc-yO2Q) and [implementation from scratch](https://www.kaggle.com/code/tauilabdelilah/stylegan-implementation-from-scratch-pytorch)
   10. Find the related codes [here](https://github.com/SoumyaratnaDebnath/Byte-by-Byte-Vision/tree/main/GANs-implemented-from-scratch).
+
+### Variational Autoencoder
+  1. [Variational Autoencoder Explained](https://youtu.be/iwEzwTTalbg?si=Wv4mQJKNllMZvM3q)
+  2. [Variational AutoEncoder Paper Walkthrough](https://youtu.be/5bA6gwo36Cw?si=lEdLDp4zCgl6DSCQ) and [implementation from scratch](https://youtu.be/VELQT1-hILo?si=2BlGkoynHX-5Tdwh)
      
 ### Diffusion Models [In Progress]
   1. [Diffusion models explained in 4-difficulty levels](https://youtu.be/yTAMrHVG1ew?si=U_XiXqf1fHSOZH1-)
   2. [What are Diffusion Models?](https://youtu.be/fbLgFrlTnGU?si=kQlJ7AN0b8kOaiMG)
   3. [Diffusion Models | Paper Explanation | Math Explained](https://youtu.be/HoKDTa5jHvg?si=km-4R43Y_EmYX3hC)
-### Text to Image Generation [Coming Soon]
-### Skinned Multi-Person Linear Model (SMPL) [Coming Soon]
+  4. [DDPM Explained](https://youtu.be/H45lF4sUgiE?si=zxuqNRH1LkJ1Xl93) and [implementation from scratch](https://youtu.be/vu6eKteJWew?si=o3x6HAsttKfQT2gs)
+  5. [What is Stable Diffusion?](https://youtu.be/RGBNdD3Wn-g?si=NBZ8SnxUCLGoSAOi)
+  6. [Coding Stable Diffusion from scratch in PyTorch](https://youtu.be/ZBKpAp_6TGI?si=FzdP-SGoVClxWVN9)
+
 ### Neural Radiance Field (NeRF) [Coming Soon]
-### PyTorch3D [Coming Soon]
-### Mamba for Vision [Coming Soon]
 
