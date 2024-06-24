@@ -51,3 +51,5 @@ Welcome to Byte-by-Byte Vision, a dedicated platform designed to empower your jo
 ### Neural Radiance Field (NeRF) [Coming Soon]
   1. [Neural Radiance Fields Paper Explained](https://youtu.be/WSfEfZ0ilw4?si=Shqr7GXw3FklwUOW)
 
+### PyTorch Mobile [Coming Soon]
+
