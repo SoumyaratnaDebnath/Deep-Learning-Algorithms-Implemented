@@ -49,4 +49,5 @@ Welcome to Byte-by-Byte Vision, a dedicated platform designed to empower your jo
   6. [Coding Stable Diffusion from scratch in PyTorch](https://youtu.be/ZBKpAp_6TGI?si=FzdP-SGoVClxWVN9)
 
 ### Neural Radiance Field (NeRF) [Coming Soon]
+  1. [Neural Radiance Fields Paper Explained](https://youtu.be/WSfEfZ0ilw4?si=Shqr7GXw3FklwUOW)
 
