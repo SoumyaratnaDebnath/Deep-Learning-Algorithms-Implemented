@@ -43,7 +43,7 @@ Welcome to Byte-by-Byte Vision, a dedicated platform designed to empower your jo
 ### Variational Autoencoder
   1. [Variational Autoencoder Explained](https://youtu.be/iwEzwTTalbg?si=Wv4mQJKNllMZvM3q)
   2. [Variational AutoEncoder Paper Walkthrough](https://youtu.be/5bA6gwo36Cw?si=lEdLDp4zCgl6DSCQ) and [implementation from scratch](https://youtu.be/VELQT1-hILo?si=2BlGkoynHX-5Tdwh)
-  3. Find the related codes [here](https://github.com/SoumyaratnaDebnath/Byte-by-Byte-Vision/tree/main/variational-autoencoder-from-scratch)
+  3. Find the related codes [here](https://github.com/SoumyaratnaDebnath/Byte-by-Byte-Vision/tree/main/variational-autoencoder-from-scratch).
      
 ### Diffusion Models
   1. [Diffusion models explained in 4-difficulty levels](https://youtu.be/yTAMrHVG1ew?si=U_XiXqf1fHSOZH1-)
