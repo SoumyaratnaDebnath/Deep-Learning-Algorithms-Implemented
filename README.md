@@ -6,7 +6,8 @@ Welcome to Byte-by-Byte Vision, a dedicated platform designed to empower your jo
   1. [ML Was Hard Until I Learned These 5 Secrets!](https://youtu.be/sJBO7rMR8ks?si=h9BtP0x1ywFW8U42)
   2. [How I’d learn ML (if I could start over)](https://youtu.be/gUmagAluXpk?si=4wiRwhonibEh2gsj)
   3. [Neural Networks Implemented From Scratch](https://youtube.com/playlist?list=PLhhyoLH6IjfzqE1Z9uGrTb66tcu311C7c&si=mHr4ANM7UzoxITbj)
-  4. [Mathematics for Deep Learning](https://github.com/SoR-D/Mathematics-for-Deep-Learning)
+  4. [Mathematics for Deep Learning](https://youtube.com/playlist?list=PL05umP7R6ij0bo4UtMdzEJ6TiLOqj4ZCm&si=m-2OnjVGfYuPKtr-)
+  5. [Mathematics for Deep Learning with Codes](https://github.com/SoR-D/Mathematics-for-Deep-Learning)
 
 ### PyTorch and Visualizations
   1. [PyTorch Tutorials - Complete Beginner Course](https://youtube.com/playlist?list=PLqnslRFeH2UrcDBWF5mfPGpqQDSta6VK4&si=jOWoiKW3T1lTg_26)
