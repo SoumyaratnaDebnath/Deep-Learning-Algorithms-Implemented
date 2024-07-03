@@ -1,6 +1,6 @@
 # Byte by Byte Vision
 
-Welcome to Byte-by-Byte Vision, a dedicated platform designed to empower your journey into the realms of deep learning and computer vision. Here, we meticulously curate and organize high-quality resources by topic, providing you with the tools to learn at your own pace and convenience. Whether you're starting from scratch or looking to refine your expertise, Pixel Intelligence offers accessible, structured learning paths to help you master each concept thoroughly. Dive into our resources today and start your self-paced exploration into the transformative world of artificial intelligence!
+Welcome to Byte-by-Byte Vision, your go-to platform for high-quality, curated resources in deep learning and computer vision. Learn at your own pace with structured paths, whether you’re a beginner or refining your expertise. Dive in and explore the transformative world of CV!
 
 ### Generic
   1. [ML Was Hard Until I Learned These 5 Secrets!](https://youtu.be/sJBO7rMR8ks?si=h9BtP0x1ywFW8U42)
