@@ -49,9 +49,10 @@ Welcome to Byte-by-Byte Vision, your go-to platform for high-quality, curated re
   1. [Diffusion models explained in 4-difficulty levels](https://youtu.be/yTAMrHVG1ew?si=U_XiXqf1fHSOZH1-)
   2. [What are Diffusion Models?](https://youtu.be/fbLgFrlTnGU?si=kQlJ7AN0b8kOaiMG)
   3. [Diffusion Models | Paper Explanation | Math Explained](https://youtu.be/HoKDTa5jHvg?si=km-4R43Y_EmYX3hC)
-  4. [DDPM Explained](https://youtu.be/H45lF4sUgiE?si=zxuqNRH1LkJ1Xl93) and [implementation from scratch](https://youtu.be/vu6eKteJWew?si=o3x6HAsttKfQT2gs)
-  5. [What is Stable Diffusion?](https://youtu.be/RGBNdD3Wn-g?si=NBZ8SnxUCLGoSAOi)
-  6. [Coding Stable Diffusion from scratch in PyTorch](https://youtu.be/ZBKpAp_6TGI?si=FzdP-SGoVClxWVN9)
+  4. [Diffusion Models - Live Coding Tutorial](https://youtu.be/S_il77Ttrmg?si=Fh3Z_m33s1oDtMv7)
+  5. [DDPM Explained](https://youtu.be/H45lF4sUgiE?si=zxuqNRH1LkJ1Xl93) and [implementation from scratch](https://youtu.be/vu6eKteJWew?si=o3x6HAsttKfQT2gs)
+  6. [What is Stable Diffusion?](https://youtu.be/RGBNdD3Wn-g?si=NBZ8SnxUCLGoSAOi)
+  7. [Coding Stable Diffusion from scratch in PyTorch](https://youtu.be/ZBKpAp_6TGI?si=FzdP-SGoVClxWVN9) 
 
 ### Neural Radiance Field (NeRF) [Coming Soon]
   1. [Neural Radiance Fields Paper Explained](https://youtu.be/WSfEfZ0ilw4?si=Shqr7GXw3FklwUOW)
