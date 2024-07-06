@@ -19,7 +19,7 @@ Welcome to Byte-by-Byte Vision, your go-to platform for high-quality, curated re
 ### Graph Neural Networks
   1. [Graph Neural Networks - DeepFindr](https://youtube.com/playlist?list=PLV8yxwGOxvvoNkzPfCx2i8an--Tkt7O8Z&si=VBMF5Zl8v-LJ-71k)
   2. [Graph Convolutional Networks using only NumPy](https://youtu.be/8qTnNXdkF1Q?si=o_z2rY6pjOVw6xwZ)
-  3. Find the related codes [here](https://github.com/SoumyaratnaDebnath/Byte-by-Byte-Vision/tree/main/graph-convolution-networks-from-scratch)
+  3. Find the related codes [here](https://github.com/SoumyaratnaDebnath/Deep-Learning-Algorithms-Implemented/tree/main/graph-convolution-networks-from-scratch)
 
 ### Vision Transformers
   1. [Attention in transformers, visually explained](https://youtu.be/eMlx5fFNoYc?si=pRbSARHssr38LjWx)
@@ -28,7 +28,7 @@ Welcome to Byte-by-Byte Vision, your go-to platform for high-quality, curated re
   4. [Vision Transformer from Scratch](https://youtu.be/pACWvXc-GLs?si=LIn29f-xGkUYy-H0)
   5. [Implement and Train ViT From Scratch for Image Recognition - PyTorch](https://youtu.be/Vonyoz6Yt9c?si=1bSgFETiMPXqw-ss)
   6. [Vision Transformer in PyTorch](https://youtu.be/ovB0ddFtzzA?si=jr6tgb0vMZpMO5DK)
-  7. Find the related codes [here](https://github.com/SoumyaratnaDebnath/Byte-by-Byte-Vision/tree/main/vision-trasnformer-from-scratch)
+  7. Find the related codes [here](https://github.com/SoumyaratnaDebnath/Deep-Learning-Algorithms-Implemented/tree/main/vision-trasnformer-from-scratch)
 
 ### Generative Adversarial Networks
   1. [Understand the Math and Theory of GANs](https://youtu.be/J1aG12dLo4I?si=vuS8el8bImDw75l8)
@@ -38,12 +38,12 @@ Welcome to Byte-by-Byte Vision, your go-to platform for high-quality, curated re
   7. [ProGAN Paper Walkthrough](https://youtu.be/lhs78if-E7E?si=JYt_qQjUiuKKfdl4) and [implementation from scratch](https://youtu.be/nkQHASviYac?si=uyfIQb0at9BYBHU8)
   8. [SRGAN Paper Walkthrough](https://youtu.be/fx-rXMcKlQc?si=88k7HFX1hPCx-olV) and [implementation from scratch](https://youtu.be/7FO9qDOhRCc?si=hT992fUyBe2_72Hc)
   9. [StyleGAN Paper Walkthorugh](https://youtu.be/qZuoU23ACTo?si=ZLgHJ39Wfhc-yO2Q) and [implementation from scratch](https://www.kaggle.com/code/tauilabdelilah/stylegan-implementation-from-scratch-pytorch)
-  10. Find the related codes [here](https://github.com/SoumyaratnaDebnath/Byte-by-Byte-Vision/tree/main/GANs-implemented-from-scratch)
+  10. Find the related codes [here](https://github.com/SoumyaratnaDebnath/Deep-Learning-Algorithms-Implemented/tree/main/GANs-implemented-from-scratch)
 
 ### Variational Autoencoder
   1. [Variational Autoencoder Explained](https://youtu.be/iwEzwTTalbg?si=Wv4mQJKNllMZvM3q)
   2. [Variational AutoEncoder Paper Walkthrough](https://youtu.be/5bA6gwo36Cw?si=lEdLDp4zCgl6DSCQ) and [implementation from scratch](https://youtu.be/VELQT1-hILo?si=2BlGkoynHX-5Tdwh)
-  3. Find the related codes [here](https://github.com/SoumyaratnaDebnath/Byte-by-Byte-Vision/tree/main/variational-autoencoder-from-scratch)
+  3. Find the related codes [here](https://github.com/SoumyaratnaDebnath/Deep-Learning-Algorithms-Implemented/tree/main/variational-autoencoder-from-scratch)
      
 ### Diffusion Models
   1. [Diffusion models explained in 4-difficulty levels](https://youtu.be/yTAMrHVG1ew?si=U_XiXqf1fHSOZH1-)
