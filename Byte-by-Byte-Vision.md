@@ -63,5 +63,8 @@ Welcome to Byte-by-Byte Vision, your go-to platform for high-quality, curated re
 ### Neural Radiance Field (NeRF) [Coming Soon]
   1. [Neural Radiance Fields Paper Explained](https://youtu.be/WSfEfZ0ilw4?si=Shqr7GXw3FklwUOW)
 
+### Quantum Computing
+  1. [The Map of Quantum Computing](https://youtu.be/-UlxHPIEVqA?si=6_qtG12HFv22rjBe)
+
 ### PyTorch Mobile [Coming Soon]
 
