@@ -16,6 +16,7 @@ Welcome to Byte-by-Byte Vision, your go-to platform for high-quality, curated re
 ### Articles
   1. [Vector Calculus - Michael Corra](https://github.com/SoumyaratnaDebnath/Deep-Learning-Algorithms-Implemented/blob/main/articles/Vector%20Calculus%20-%20Michael%20Corra.pdf)
   2. [Quantum Computing for the Quantum Curious - Ciaran Hughes](https://github.com/SoumyaratnaDebnath/Deep-Learning-Algorithms-Implemented/blob/main/articles/Quantum%20Computing%20for%20the%20Quantum%20Curious.pdf)
+  3. [The Map of Quantum Computing](https://youtu.be/-UlxHPIEVqA?si=6_qtG12HFv22rjBe)
 
 ### PyTorch and Visualizations
   1. [PyTorch Tutorials - Complete Beginner Course](https://youtube.com/playlist?list=PLqnslRFeH2UrcDBWF5mfPGpqQDSta6VK4&si=jOWoiKW3T1lTg_26)
@@ -60,11 +61,14 @@ Welcome to Byte-by-Byte Vision, your go-to platform for high-quality, curated re
   6. [What is Stable Diffusion?](https://youtu.be/RGBNdD3Wn-g?si=NBZ8SnxUCLGoSAOi)
   7. [Coding Stable Diffusion from scratch in PyTorch](https://youtu.be/ZBKpAp_6TGI?si=FzdP-SGoVClxWVN9) 
 
-### Neural Radiance Field (NeRF) [Coming Soon]
-  1. [Neural Radiance Fields Paper Explained](https://youtu.be/WSfEfZ0ilw4?si=Shqr7GXw3FklwUOW)
+### Neural Radiance Field (NeRF)
+  1. [Neural Radiance Fields Paper Explained](https://youtu.be/CRlN-cYFxTk?si=4Bdm83jNngYfrkat)
+  2. [How NeRF and Instant Neural Graphics Primitives Work](https://theaisummer.com/nerf/)
+  3. [Understanding NeRFs](https://cameronrwolfe.substack.com/p/understanding-nerfs)
+  4. [Coding Neural Radiance Fields](https://youtu.be/Q1zqf5tfeJw?si=x-sEgEgdYUfbRjQS)
 
-### Quantum Computing
-  1. [The Map of Quantum Computing](https://youtu.be/-UlxHPIEVqA?si=6_qtG12HFv22rjBe)
-
-### PyTorch Mobile [Coming Soon]
+### 3D Gaussian Splatting
+  1. [3D Gaussian Splatting - Explained!](https://youtu.be/sQcrZHvrEnU?si=txnlmdm60u7v1jVK)
+  2. [3D Gaussian Splatting](https://www.reshot.ai/3d-gaussian-splatting)
+  3. [Gaussian Splatting Explorations](https://youtu.be/jV1g5OY0L5s?si=-4B5MHygmjg_QyR3)
 
