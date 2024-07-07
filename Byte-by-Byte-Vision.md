@@ -5,11 +5,13 @@ Welcome to Byte-by-Byte Vision, your go-to platform for high-quality, curated re
 ### Generic
   1. [ML Was Hard Until I Learned These 5 Secrets!](https://youtu.be/sJBO7rMR8ks?si=h9BtP0x1ywFW8U42)
   2. [How I’d learn ML (if I could start over)](https://youtu.be/gUmagAluXpk?si=4wiRwhonibEh2gsj)
-  3. [Basic probability: Joint, marginal and conditional probability | Independence](https://youtu.be/SrEmzdOT65s?si=v-tQQ4b2aJe5KcbW)
-  4. [What is Prior And Posterior](https://youtu.be/CHwM6dIec44?si=KQz9rLYME8cGPvIy)
-  5. [Mathematics for Deep Learning Playlist](https://youtube.com/playlist?list=PL05umP7R6ij0bo4UtMdzEJ6TiLOqj4ZCm&si=m-2OnjVGfYuPKtr-)
-  6. [Mathematics for Deep Learning with Codes](https://github.com/SoR-D/Mathematics-for-Deep-Learning)
-  3. [Neural Networks Implemented From Scratch](https://youtube.com/playlist?list=PLhhyoLH6IjfzqE1Z9uGrTb66tcu311C7c&si=mHr4ANM7UzoxITbj)
+
+### Mathematics 
+  1. [Basic probability: Joint, marginal and conditional probability | Independence](https://youtu.be/SrEmzdOT65s?si=v-tQQ4b2aJe5KcbW)
+  2. [What is Prior And Posterior](https://youtu.be/CHwM6dIec44?si=KQz9rLYME8cGPvIy)
+  3. [Mathematics for Deep Learning Playlist](https://youtube.com/playlist?list=PL05umP7R6ij0bo4UtMdzEJ6TiLOqj4ZCm&si=m-2OnjVGfYuPKtr-)
+  4. [Mathematics for Deep Learning with Codes](https://github.com/SoR-D/Mathematics-for-Deep-Learning)
+  5. [Neural Networks Implemented From Scratch](https://youtube.com/playlist?list=PLhhyoLH6IjfzqE1Z9uGrTb66tcu311C7c&si=mHr4ANM7UzoxITbj)
 
 ### PyTorch and Visualizations
   1. [PyTorch Tutorials - Complete Beginner Course](https://youtube.com/playlist?list=PLqnslRFeH2UrcDBWF5mfPGpqQDSta6VK4&si=jOWoiKW3T1lTg_26)
