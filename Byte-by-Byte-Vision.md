@@ -74,3 +74,5 @@ Welcome to Byte-by-Byte Vision, your go-to platform for high-quality, curated re
   2. [3D Gaussian Splatting](https://www.reshot.ai/3d-gaussian-splatting)
   3. [Gaussian Splatting Explorations](https://youtu.be/jV1g5OY0L5s?si=-4B5MHygmjg_QyR3)
 
+### Other References
+  1. [AI By Hand](https://x.com/ProfTomYeh)
