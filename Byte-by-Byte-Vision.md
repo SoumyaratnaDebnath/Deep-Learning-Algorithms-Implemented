@@ -71,8 +71,9 @@ Welcome to Byte-by-Byte Vision, your go-to platform for high-quality, curated re
 
 ### 3D Gaussian Splatting
   1. [3D Gaussian Splatting - Explained!](https://youtu.be/sQcrZHvrEnU?si=txnlmdm60u7v1jVK)
-  2. [3D Gaussian Splatting](https://www.reshot.ai/3d-gaussian-splatting)
-  3. [Gaussian Splatting Explorations](https://youtu.be/jV1g5OY0L5s?si=-4B5MHygmjg_QyR3)
+  2. [Computer Science Maths Cheat Sheet](https://www.linkedin.com/feed/update/urn:li:activity:7217107189029646337?utm_source=share&utm_medium=member_desktop)
+  3. [3D Gaussian Splatting](https://www.reshot.ai/3d-gaussian-splatting)
+  4. [Gaussian Splatting Explorations](https://youtu.be/jV1g5OY0L5s?si=-4B5MHygmjg_QyR3)
 
 ### Additional References
   1. [Tom Yeh | AI by Hand](https://x.com/ProfTomYeh)
