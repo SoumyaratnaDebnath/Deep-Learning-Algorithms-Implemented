@@ -7,6 +7,7 @@ Welcome to Byte-by-Byte Vision, your go-to platform for high-quality, curated re
   2. [How I’d learn ML (if I could start over)](https://youtu.be/gUmagAluXpk?si=4wiRwhonibEh2gsj)
   3. [Neural Networks Implemented From Scratch](https://youtube.com/playlist?list=PLhhyoLH6IjfzqE1Z9uGrTb66tcu311C7c&si=mHr4ANM7UzoxITbj)
   4. [DeepLearning - Mitesh Khapra](https://youtube.com/playlist?list=PLEAYkSg4uSQ1r-2XrJ_GBzzS6I-f8yfRU&si=A4XVBP1vMublbJkU)
+  5. [Neural Networks by 3-Blue-1-Brown](https://youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&si=83Z97JTe2OiClvk7)
 
 ### Mathematics 
   1. [Basic probability: Joint, marginal and conditional probability | Independence](https://youtu.be/SrEmzdOT65s?si=v-tQQ4b2aJe5KcbW)
