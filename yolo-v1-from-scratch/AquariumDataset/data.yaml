@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 7
+names: ['fish', 'jellyfish', 'penguin', 'puffin', 'shark', 'starfish', 'stingray']
+
+roboflow:
+  workspace: brad-dwyer
+  project: aquarium-combined
+  version: 2
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/brad-dwyer/aquarium-combined/dataset/2
